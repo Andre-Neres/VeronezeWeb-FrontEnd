@@ -1,0 +1,12 @@
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-image:url("../../assets/images/background.png");
+    overflow: hidden;
+    color: #fff;
+    font-family: Arial, sans-serif;
+  }
+
